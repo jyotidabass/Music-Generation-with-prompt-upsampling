@@ -1,0 +1,5 @@
+git+https://github.com/huggingface/transformers.git
+accelerate
+optimum
+huggingface_hub
+soundfile
